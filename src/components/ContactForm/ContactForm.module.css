@@ -30,14 +30,14 @@ input {
 
 input:focus {
     outline: none;
-    border-color: #0bdd27;
+    border-color: #1976d2;
     box-shadow: 0 0 4px rgba(25, 118, 210, 0.3);
 }
 
 button {
     padding: 10px;
     font-size: 15px;
-    background-color: #23b311;
+    background-color: #1976d2;
     color: white;
     border: none;
     border-radius: 6px;
@@ -47,7 +47,7 @@ button {
 }
 
 button:hover {
-    background-color: #059224;
+    background-color: #125aa0;
     transform: translateY(-1px);
 }
 
